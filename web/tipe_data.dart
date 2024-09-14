@@ -19,6 +19,12 @@ void main() {
 
   // List
   List tes = [123, 'Rawr', true];
+  // Kalau list itu dia masih bisa ngeduplikasi nilai yang sudah ada sebelumnya
+
+  // Set
+  Set warna = {'Merah', 'Putih', 'Biru'};
+  // Sementara Set tidak bisa menduplikasi nilai yang sudah ada
+  // Dan Set ditulis menggunakan kurawal {}
 
   // Map
   Map mapping = {'id': 1, 'nama': 'Iban'};
