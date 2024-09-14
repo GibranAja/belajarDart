@@ -14,6 +14,10 @@ void main() {
 
   print(a);
 
+  final namaDepan = 'Gibran';
+  final namaBelakang = 'Ar\'Raffi';
+  print('$namaDepan $namaBelakang');
+
   // Opertor Logika
   // &&, ||, !==, 
 }
